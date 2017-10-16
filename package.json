@@ -1,0 +1,15 @@
+{
+  "name": "test-mlab-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/myfirsttest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^4.8.0"
+  }
+}
