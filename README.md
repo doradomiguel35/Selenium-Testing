@@ -9,7 +9,7 @@ $ npm --version
 ```
 2. Clone repository 
 3. Open terminal and go to repo path
-4. Ininitialize package.json, and install the following dependencies
+4. Initialize package.json, and install the following dependencies
 ```
 $ npm init -y
 $ npm install --save webdriverio
