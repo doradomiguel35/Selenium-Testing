@@ -15,7 +15,7 @@ $ npm init -y
 $ npm install --save webdriverio
 $ npm install -g selenium-standalone
 ```
-5. Start selenium server
+5. Start selenium server (Keep this terminal open)
 ```
 $ selenium-standalone start
 ```
